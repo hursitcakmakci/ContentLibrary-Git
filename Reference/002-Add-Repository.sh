@@ -1,15 +1,12 @@
 # ADD NEW REPOSITORY
-# Projeyi oluşturacağın ana dosyayı (working copy) belirlediğin dizinde oluştur
-# Dosyanın içine gir
-
-
 # Create the project main folder
 mkdir <folder-name>
 cd <folder-name>
-
 # Create an empty Git repository or reinitialize an existing one (Local)
 git init
 
+
+# CLONE REMOTE REPOSITORY
 # Clone a repository into a new directory (eg. Clone to local from Github)
 git clone <address> #https://...../link.git"
 # Display origin link of downloaded project from the remote host
