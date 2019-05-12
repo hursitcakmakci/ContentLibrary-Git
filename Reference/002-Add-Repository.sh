@@ -15,7 +15,10 @@ git remote -v
 git push origin master
 
 
-
+# Reference Link
+# https://git-scm.com/docs/git-init
+# https://git-scm.com/docs/git-clone
+# https://git-scm.com/docs/git-push
 
 
 # git init [-q | --quiet] [--bare] [--template=<template_directory>]
@@ -40,7 +43,3 @@ git push origin master
 # 	   [--no-verify] [<repository> [<refspec>…​]]
 
 
-# Reference Link
-# https://git-scm.com/docs/git-init
-# https://git-scm.com/docs/git-clone
-# https://git-scm.com/docs/git-push
