@@ -14,6 +14,8 @@
 git add <file-name>
 # Add all untracked or changed tracked files to the Staging Area
 git add .
+# Allow adding otherwise ignored files.
+git add -f <file-name>
 
 # Show the working tree status
 git status
