@@ -40,12 +40,15 @@ git log --oneline --decorate --graph
 # (--decorate) Print out the ref names of any commits that are shown.
 # (--graph) Draw a text-based graphical representation of the commit history on the left hand side of the output. 
 
+# Show the working tree status
+git status
 
 # Reference Links
 # https://git-scm.com/book/en/v1/Getting-Started-Git-Basics
 # https://git-scm.com/docs/git-add
 # https://git-scm.com/docs/git-status
 # https://git-scm.com/docs/git-commit
+# https://git-scm.com/docs/git-status
 
 # git add [--verbose | -v] [--dry-run | -n] [--force | -f] [--interactive | -i] [--patch | -p]
 # 	  [--edit | -e] [--[no-]all | --[no-]ignore-removal | [--update | -u]]

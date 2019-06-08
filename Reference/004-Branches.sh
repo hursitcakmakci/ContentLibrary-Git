@@ -46,3 +46,10 @@ git checkout <brach-name>
 
 # Delete branch
 git branch -d <branch-name>
+
+
+# Note: A newly created branch contains commits before it was created
+
+# Reference Links
+# https://git-scm.com/docs/git-branch
+# https://git-scm.com/docs/git-checkout
