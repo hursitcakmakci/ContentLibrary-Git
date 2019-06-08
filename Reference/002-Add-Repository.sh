@@ -13,7 +13,8 @@ git clone <address> #https://...../link.git"
 git remote -v
 # Update remote refs along with associated objects
 git push origin master
-
+# Add a existing local repository to remote repository (GitHub)
+git push <address> master #https://...../link.git"
 
 # Reference Link
 # https://git-scm.com/docs/git-init
